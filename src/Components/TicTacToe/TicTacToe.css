@@ -46,3 +46,14 @@
     margin: auto;
 
 }
+.boxes img{
+    margin: 50px;
+}
+.result{
+    margin-top: 50px;
+    color: white;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
