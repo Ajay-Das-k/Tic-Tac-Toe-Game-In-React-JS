@@ -1,5 +1,17 @@
 # Getting Started with Create React App
+Tic Tac Toe is a classic two-player game where each player takes turns marking spaces in a 3x3 grid. The objective of the game is to get three of your marks (either X or O) in a horizontal, vertical, or diagonal row.
 
+In this React implementation of Tic Tac Toe:
+
+Game Interface: The game provides a simple and intuitive interface with a 3x3 grid of squares where players can make their moves.
+
+Player Turns: The game alternates between two players, usually represented by X and O. Players take turns clicking on empty squares to place their marks.
+
+Winning Condition: The game checks after each move if there is a winner. A player wins if they have three of their marks in a row (horizontally, vertically, or diagonally). If there are no more empty squares and no winner, the game ends in a draw.
+
+Reset Functionality: There is a "Reset" button that allows players to start a new game at any time. Clicking the "Reset" button clears the grid and resets the game state.
+
+Feedback and Alerts: The game provides feedback to the players when there is a winner or a draw. It uses a SweetAlert modal to display a message when the game is over, informing the players of the result (win or draw).
 
 ![screenShot](1.png)
 
