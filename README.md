@@ -1,8 +1,10 @@
 # Getting Started with Create React App
 
-Project Live Link: https://tic-tac-toe-game-in-react-js.vercel.app/
+
 ![screenShot](1.png)
 
+
+Project Live Link: https://tic-tac-toe-game-in-react-js.vercel.app/
 ## Technologies Used
 
 - React
